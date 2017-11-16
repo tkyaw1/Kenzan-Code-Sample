@@ -1,0 +1,2 @@
+# Kenzan-Code-Sample
+FizzBuzz
